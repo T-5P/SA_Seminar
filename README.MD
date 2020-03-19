@@ -10,11 +10,11 @@
 - *Speaker*는 세미나 종료 후, 본 Github에 관련 자료를 업로드 하여 공개한다.
 - Github에 자료 올릴 시 주제 마다 폴더(#. Topic)를 생성하여 관리하며, README는 필수로 작성하도록 한다.
 
-# Schedule
+# Agenda
 |  #  | Topic | Date | Speaker |
 |-----|-------|------|---------|
-|  0  | About Seminar      | Mar. 20. 2020     | 김병조        |
-|  1  |       |      |         |
+|  00  | About Seminar      | Mar. 20. 2020     | 김병조        |
+|  01  |       |      |         |
 |     |       |      |         |
 |     |       |      |         |
 |     |       |      |         |
