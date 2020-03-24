@@ -1,9 +1,10 @@
-# ZUM Internet Corp. AI Seminar
-[줌인터넷](http://zuminternet.com/)에서 진행하는 AI Seminar 입니다. 인공지능에 대한 아이디어를 자유롭게 토론할 수 있는 혹은 최신 논문을 리뷰하는 세미나 입니다.
+# AI Seminar
+AI Seminar 입니다. 인공지능에 대한 아이디어를 자유롭게 토론할 수 있는 혹은 최신 논문을 리뷰하는 세미나 입니다.
 
 # About Seminar
 - 세미나는 30분에서 1시간 이내로 진행한다.
 - 세미나는 매주 1회 이상 진행한다.
+- 세미나는 workshop 및 한 가지 목표를 정하여 관련 주제로 이루어진다.
 - *Speaker*는 주제(Topic)를 결정한 후, *Listener*와 세미나 날짜(Date) 및 방식(Online, Offline 등)을 정한다.
 - 주제(Topic)는 논문 리뷰부터 아이디어 공유 등 자유롭게 정한다.
 - *Speaker*는 자유로운 방식(서면, 행아웃 등)과 자유로운 양식(ppt, pdf, 그림, 글씨 등)으로 주제(Topic)에 대한 세미나를 진행한다.
@@ -14,7 +15,7 @@
 |  #  | Topic | Date | Speaker |
 |-----|-------|------|---------|
 |  00  | About Seminar      | Mar. 20. 2020     | 김병조        |
-|  01  |       |      |         |
+|  01  | TBD                | Apr. 01. 2020     | TBD           |
 |     |       |      |         |
 |     |       |      |         |
 |     |       |      |         |
