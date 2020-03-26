@@ -1,5 +1,5 @@
-# AI Seminar
-AI Seminar 입니다. 인공지능에 대한 아이디어를 자유롭게 토론할 수 있는 혹은 최신 논문을 리뷰하는 세미나 입니다.
+# Search&AI Team Seminar
+기업 부설 연구소 Search&AI Team Seminar 입니다. 인공지능에 대한 아이디어를 자유롭게 토론할 수 있는 혹은 최신 논문을 리뷰하는 세미나 입니다.
 
 # About Seminar
 - 세미나는 30분에서 1시간 이내로 진행한다.
