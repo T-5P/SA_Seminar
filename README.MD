@@ -15,19 +15,19 @@
 |  #  | Topic | Date | Speaker |
 |-----|-------|------|---------|
 |  00  | About Seminar      | Mar. 20. 2020     | 김병조        |
-|  01  | TBD                | Apr. 01. 2020     | TBD           |
-|     |       |      |         |
-|     |       |      |         |
-|     |       |      |         |
-|     |       |      |         |
-|     |       |      |         |
-|     |       |      |         |
-|     |       |      |         |
-|     |       |      |         |
-|     |       |      |         |
-|     |       |      |         |
-|     |       |      |         |
-|     |       |      |         |
+|  01  | Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection             | Apr. 01. 2020     | 김병조           |
+|  02  |       |      |         |
+|  03  |       |      |         |
+|  04  |       |      |         |
+|  05  |       |      |         |
+|  06  |       |      |         |
+|      |       |      |         |
+|      |       |      |         |
+|      |       |      |         |
+|      |       |      |         |
+|      |       |      |         |
+|      |       |      |         |
+|      |       |      |         |
 
 # Participants
 - 박경수
