@@ -53,7 +53,7 @@
 |      |       |      |         |
 
 ## Participants
-- 박경수
+- [박경수](https://github.com/b-nep)
 - [김찬란](https://github.com/seriousran)
 - [송제인](https://github.com/songjein)
 - [이재훈](https://github.com/dlwogns0128)
