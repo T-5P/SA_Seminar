@@ -39,7 +39,7 @@
 |-----|-------|------|---------|
 |  00  | About Seminar      | Mar. 20. 2020     | 김병조        |
 |  01  | Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection             | Apr. 01. 2020     | 김병조           |
-|  02  |       | Apr. 08. 2020     | 이재훈        |
+|  02  | Patch-Level Augmentation for Object Detection in Aerial Images [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Hong_Patch-Level_Augmentation_for_Object_Detection_in_Aerial_Images_ICCVW_2019_paper.pdf)      | Apr. 08. 2020     | 이재훈        |
 |  03  |       | Apr. 15. 2020     | 김찬란        |
 |  04  |       |      |         |
 |  05  |       |      |         |
